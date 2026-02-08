@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="TFMdll/TFMdll.vcxproj" Id="71d92cab-67a5-481d-bad3-b91b5b39ab86" />
+</Solution>
